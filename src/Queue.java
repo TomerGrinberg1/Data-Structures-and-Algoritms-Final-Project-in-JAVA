@@ -49,10 +49,5 @@ public class Queue {
         return node;
     }
 
-   // public LinkedList<TreeNode> getLinkedList() {
-   //     return linkedList;
-    //}
-    //public LinkedList<TreeNode> getTail() {
-      //  return tail;
-    //}
+
 }
